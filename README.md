@@ -3,8 +3,6 @@
 # rest-api-dockercompose.
 envirnment variables:
 
-MONGO_URI="mongodb+srv://ankits48:cGETGugPn7NfcXMz@cluster0.n7stlez.mongodb.net/test"
-
 MONGODB_URI= "mongodb://mongo_db:27017/test"
 
 # To start locally.
